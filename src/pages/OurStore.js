@@ -163,7 +163,7 @@ const OurStore = () => {
                                 <select 
                                 name="" className='form-control form-select' id="">
                                     <option value="manual">Featured</option>
-                                    <option value="best-selling" selected="selected">
+                                    <option value="best-selling" >
                                         Best selling
                                     </option>
                                     <option value="title-ascending">Alphabetically, A-Z</option>
