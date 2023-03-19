@@ -167,7 +167,7 @@ export const blogCard = [
 
     {
         title: "A beautiful sunday morning renaissance",
-        desc: "You are only as good as your last collection, which is an enormous pressure.",
+        desc: "You are only as good as your last collection, which is an enormous pressure..",
         image: blog1
     },
 

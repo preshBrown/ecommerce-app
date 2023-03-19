@@ -27,7 +27,7 @@ const SingleBlog = () => {
                             enormous pressure. I think there is Something about luxury 
                             it is not Something people need , but its what they want. it 
                             really pulls at their heart . I have a fantastic relationship 
-                            with money.kliahejjfjwfejksdfl;klgjgihirehihiuhuhfiwerjoijfr 
+                            with money. 
                         </p>
                     </div>
                 </div>
